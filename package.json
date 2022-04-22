@@ -1,0 +1,20 @@
+{
+  "name": "link.xmaho.movement.vrc.drone",
+  "version": "0.0.1-preview",
+  "displayName": "Drone Movement on VRC",
+  "description": "x.maho Drone Movement on VRC with PhysBones",
+  "unity": "2018.4",
+  "keywords": [
+    "VRChat",
+    "VRC",
+    "follow",
+    "drone"
+  ],
+  "samples": [
+  ],
+  "author": {
+    "name": "FORNO",
+    "email": "forno@xmaho.link",
+    "url": "https://github.com/forno"
+  }
+}
